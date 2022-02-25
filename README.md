@@ -12,7 +12,7 @@
 - Edited title tag in index head to "Horiseon"
 - Fixed missing id pointer in first object "Search Engine Optimization"
 - Replaced highest level div tag in header (& CSS) with nav
-- Consolidated Header, Benefit, Services, Footer divs/classes & attributes
+- **Consolidated Header, Benefit, Services, Footer divs/classes & attributes**
 
 ## Project Overview
 ### User Story
