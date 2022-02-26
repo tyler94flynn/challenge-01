@@ -1,6 +1,6 @@
 # challenge-01: CSS & HTML Code Refactor
-## By Tyler Flynn
-### tyler94flynn@gmail.com
+## Code Refactor by Tyler Flynn
+tyler94flynn@gmail.com
 #
 
 ## Table of Contents
