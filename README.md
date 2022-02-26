@@ -3,16 +3,22 @@
 ### tyler94flynn@gmail.com
 #
 
-## Link to Deployed Page
+## Table of Contents
+* [Link to Page](#link-to-page)
+* [Changes](#changes)
+* [Project Overview](#project-overview)
+* [Grading Criteria](#grading-criteria)
+
+## Link to Page
 
 [https://tyler94flynn.github.io/challenge-01/](https://tyler94flynn.github.io/challenge-01/)
 
-## Overview of Changes
+## Changes
 
 - Edited title tag in index head to "Horiseon"
 - Fixed missing id pointer in first object "Search Engine Optimization"
 - Replaced highest level div tag in header (& CSS) with nav
-- **Consolidated Header, Benefit, Services, Footer divs/classes & attributes**
+- Consolidated Header, Benefit, Services, Footer divs/classes & attributes
 
 ## Project Overview
 ### User Story
