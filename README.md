@@ -5,21 +5,28 @@ tyler94flynn@gmail.com
 
 ## Table of Contents
 * [Link to Page](#link-to-page)
-* [Changes](#changes)
+* [Description](#description)
 * [Project Overview](#project-overview)
 * [Grading Criteria](#grading-criteria)
+#
 
 ## Link to Page
 
 [https://tyler94flynn.github.io/challenge-01/](https://tyler94flynn.github.io/challenge-01/)
 
-## Changes
+## Description
+Refactored an existing website to follow agile principles and accessibility standards while preserving all visual elements. More specifically:
 
-- Edited title tag in index head to "Horiseon"
+- Edited title tag in index head to "Horiseon" (from "website")
 - Fixed missing id pointer in first object "Search Engine Optimization"
-- Added nav, main & section div semantics
-- Consolidated Header, Services, Features, Footer divs/classes & attributes
-- Changed order of Services/Features CSS sections to align with order in index.html
+- Added nav, main, section, footer div semantics, heading order semantics (h2 --> h4)
+- Consolidated Header, Features (formerly "content"), Benefits, Footer divs/classes & attributes
+- Changed order of Features/Benefits CSS sections (and some subsections like float css classes) to align with order in index.html
+- Added clear & concise image alt text for accessibility
+- Did not change the website visually at all, except for the change of the page title to "Horiseon" from "website." View screenshot of refactored website below:
+
+
+![Screenshot of refactored site, showing no visual changes except page title "Horiseon"](./assets/images/screenshot-TF.PNG)
 
 ## Project Overview
 ### User Story
